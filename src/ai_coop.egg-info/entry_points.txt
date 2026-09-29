@@ -1,0 +1,2 @@
+[console_scripts]
+aicoop = aicoop.cli:app
